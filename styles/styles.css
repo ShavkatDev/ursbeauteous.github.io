@@ -33,3 +33,9 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.registration-form {
+    margin-left: 10px;
+    display: flex;
+    align-items: end;
+}
